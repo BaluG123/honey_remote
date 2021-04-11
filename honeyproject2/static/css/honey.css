@@ -1,0 +1,18 @@
+.sidebar{
+  float: left;
+  width:15%;
+  background: lightgray;
+}
+.content{
+  float: left;
+  width: 100%;
+  background: lightgray;
+}
+#video-list:hover{
+  border:1px solid #3b5998;
+  padding: 2px;
+}
+body{
+  max-width: 100%;
+  background: lightgray;
+}
